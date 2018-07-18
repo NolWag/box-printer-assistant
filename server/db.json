@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "Precedent Lift Kit", "qty": 99 },
+    { "id": 2, "title": "Heavy Duty Springs", "qty": 10 },
+    { "id": 3, "title": "Seat Kit Safety Bar", "qty": 13 },
+    { "id": 4, "title": "Seat Cushions", "qty": 48 },
+    { "id": 5, "title": "Precedent Flip Windshield", "qty": 33 }
+  ]
+}
